@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khalicartel
-- 👀 I’m interested in we development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning php and mysql 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on mpesa API
 - 📫 How to reach me ...
 
 <!---
